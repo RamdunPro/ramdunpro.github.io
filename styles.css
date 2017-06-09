@@ -1,10 +1,36 @@
 img {
-    width: 525px;
+    width: 455px;
     height: 200px;
 }
 
+
+h1 {
+    color: #3f0616;
+}
+
 body {
+    background: #ed5ea3;
     text-align: center;
+    font-family:"Comic Sans MS";
+    border: 5px solid white;
+    padding: 35px;
+}
+
+footer {
+    vertical-align: text-bottom;
+    margin-bottom: 20px;
+    float: right;
+    position: relative;
     
-    font-family:"Arial";
+}
+
+.links {
+    justify-content: center;
+    align-items: center;
+     
+}
+
+form {
+    
+justify-content: space-around;
 }
